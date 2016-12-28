@@ -1,7 +1,7 @@
 ---
 ID: 2388
 post_title: Download our free music streaming app!
-author: Jen Gies
+author: Mike Echlin
 post_date: 2015-05-29 14:46:55
 post_excerpt: ""
 layout: page
