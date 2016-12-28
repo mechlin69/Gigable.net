@@ -1,7 +1,7 @@
 ---
 ID: 56
 post_title: Blog
-author: Jen Gies
+author: Mike Echlin
 post_date: 2013-12-01 15:56:40
 post_excerpt: ""
 layout: page
