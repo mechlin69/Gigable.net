@@ -9,7 +9,6 @@ permalink: >
   https://www.gigable.net/blog/gigable-radio/
 published: true
 ---
-<div class="_all_wplink_wgWludgu_cc" style="position:absolute;opacity:0.001;z-index:10;filter:alpha(opacity=0)"></div>
 
 <h4 style="text-align: center;">Exclusive tracks featuring artists from the Gigable network
 Check back daily for new tracks!</h4>
