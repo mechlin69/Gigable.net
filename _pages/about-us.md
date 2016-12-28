@@ -1,7 +1,7 @@
 ---
 ID: 693
 post_title: About Us
-author: Jen Gies
+author: Mike Echlin
 post_date: 2013-12-26 17:19:08
 post_excerpt: ""
 layout: page
