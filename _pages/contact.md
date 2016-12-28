@@ -8,7 +8,9 @@ layout: page
 permalink: https://www.gigable.net/contact/
 published: true
 ---
-<div class="_all_wplink_wgWludgu_cc" style="position:absolute;opacity:0.001;z-index:10;filter:alpha(opacity=0)"><a href="http://www.lchfund.hk/black-friday-2016/ugg/">cyber monday for ugg boots</a><a href="http://nsitonline.in/new/north-face/">north face black friday 2016</a><a href="http://projects-namrb.org/us/north-face-black-friday-sale.html">north face black friday deals 2016</a></div>If you have questions or comments about artists, showcases, house concerts and/or music in general, we'd love to hear from you!
+
+
+If you have questions or comments about artists, showcases, house concerts and/or music in general, we'd love to hear from you!
 <p style="text-align: center;">[contact-form-7 id="730" title="Contact form 1"]</p>
 <strong>Gigable LLC</strong>
 
