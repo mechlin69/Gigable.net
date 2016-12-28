@@ -1,7 +1,7 @@
 ---
 ID: 1217
 post_title: Gigableを日本へ！
-author: Jen Gies
+author: Mike Echlin
 post_date: 2014-09-05 07:22:19
 post_excerpt: ""
 layout: page
