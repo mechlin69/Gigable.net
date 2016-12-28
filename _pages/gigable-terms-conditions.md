@@ -11,7 +11,7 @@ published: true
 dsq_thread_id:
   - ""
 ---
-<div class="_all_wplink_wgWludgu_cc" style="position:absolute;opacity:0.001;z-index:10;filter:alpha(opacity=0)"><a href="https://www.facebook.com/Michael-kors-cyber-monday-deals-1668742543412507/">michael kors black friday sale</a><a href="http://www.prangpower.com/pre-sale/north-face-black-friday.html">north face outlet black friday</a></div><h1>Terms and Conditions</h1>
+<h1>Terms and Conditions</h1>
 Welcome to the Gigable Terms and Conditions (or “Agreement”). This Agreement describes the terms and conditions that govern your use of our services at <a href="http://www.gigable.net/">http://www.gigable.net/</a> (our "Site" or “Platform”). Before you may become a member of our Site you must read, agree with and accept all of the terms and conditions contained in this Agreement and Gigable's policies, including its Privacy Policy (the "Policies"). These Policies change from time to time, and you agree that they form part of this Agreement. Our Privacy Policies may be accessed here: Privacy Policy. Each time you use our services you confirm your agreement to be bound by and acknowledge any changes to the Agreement (including the Policies). You also undertake to familiarize yourself with and comply with the Policies relevant to your use of our Site and the services provided under this Agreement (as may be amended from time to time). As you read this Agreement, you should also access and read the information contained in the other pages and websites referred to in this Agreement.
 
 &nbsp;
