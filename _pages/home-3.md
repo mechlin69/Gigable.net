@@ -1,7 +1,7 @@
 ---
 ID: 661
 post_title: Home | Fueling your music scene
-author: Jen Gies
+author: Mike Echlin
 post_date: 2013-12-01 15:55:52
 post_excerpt: ""
 layout: page
