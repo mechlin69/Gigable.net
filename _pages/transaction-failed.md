@@ -1,7 +1,7 @@
 ---
 ID: 6
 post_title: Transaction Failed
-author: Jen Gies
+author: Mike Echlin
 post_date: 2013-11-07 04:44:32
 post_excerpt: ""
 layout: page
