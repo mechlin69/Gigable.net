@@ -1,7 +1,7 @@
 ---
 ID: 996
 post_title: 'Gigable Terms &#038; Conditions'
-author: Jen Gies
+author: Mike Echlin
 post_date: 2014-04-30 17:22:12
 post_excerpt: ""
 layout: page
