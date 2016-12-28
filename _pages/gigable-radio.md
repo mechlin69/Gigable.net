@@ -1,7 +1,7 @@
 ---
 ID: 2378
 post_title: Gigable Radio
-author: Jen Gies
+author: Mike Echlin
 post_date: 2015-05-27 20:29:34
 post_excerpt: ""
 layout: page
