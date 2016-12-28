@@ -1,7 +1,7 @@
 ---
 ID: 10
 post_title: Create Show
-author: Jen Gies
+author: Mike Echlin
 post_date: 2013-11-07 05:03:33
 post_excerpt: ""
 layout: page
