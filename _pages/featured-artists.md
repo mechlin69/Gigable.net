@@ -11,7 +11,6 @@ published: true
 dsq_thread_id:
   - ""
 ---
-<div class="_all_wplink_wgWludgu_cc" style="position: absolute; opacity: 0.001; z-index: 10; filter: alpha(opacity=0);"><a href="http://osaavasatakunta.fi/ugg-black-friday-online/">ugg bailey bow tall cyber monday</a><a href="http://www.southernpines.biz/black-friday-online/michael-kors/">michael kors black friday uk</a></div>
 <h3>Gigable is proud to introduce and promote great artists and original music.  We are adding new artists every day.</h3>
 <h3>Read about our featured artists and discover their story!</h3>
 <h3></h3>
