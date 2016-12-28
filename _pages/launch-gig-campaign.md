@@ -13,4 +13,6 @@ force_ssl_children:
 dsq_thread_id:
   - ""
 ---
-<div class="_all_wplink_wgWludgu_cc" style="position:absolute;opacity:0.001;z-index:10;filter:alpha(opacity=0)"><a href="http://www.elgeorgeharris.com/ugg-black-friday/">ugg sale for cyber monday</a><a href="http://www.schoolsnreviews.com/black-friday-sales/north-face/">is north face doing black friday</a></div>[appthemer_crowdfunding_submit]
+
+
+[appthemer_crowdfunding_submit]
