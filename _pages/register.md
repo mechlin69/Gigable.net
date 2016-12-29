@@ -13,8 +13,10 @@ dsq_thread_id:
 <h2><span style="color: #000000;"><strong>Promote your show with Gigable</strong></span></h2>
 3-Steps To Get Started
 <ol>
-	<li>Register below</li>
-	<li>Enter <a href="https://www.gigable.net/launch-gig-campaign/">show</a> details</li>
-	<li>We will review your show and be in touch right away!</li>
+ 	<li>Register below</li>
+ 	<li>Enter <a href="https://www.gigable.net/launch-gig-campaign/">show</a> details</li>
+ 	<li>We will review your show and be in touch right away!</li>
 </ol>
+[bws_google_captcha]
+
 [appthemer_crowdfunding_register]
