@@ -17,6 +17,6 @@ dsq_thread_id:
  	<li>Enter <a href="https://www.gigable.net/launch-gig-campaign/">show</a> details</li>
  	<li>We will review your show and be in touch right away!</li>
 </ol>
-[bws_google_captcha]
-
 [appthemer_crowdfunding_register]
+
+[bws_google_captcha]
