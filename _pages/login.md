@@ -12,14 +12,16 @@ force_ssl_children:
 ---
 <h1><span style="color: #808080;">3 Steps To Get Started</span></h1>
 <ol>
-	<li>
+ 	<li>
 <h3><a title="Register" href="http://www.gigable.net/register/">Register</a> or login below if already registered</h3>
 </li>
-	<li>
+ 	<li>
 <h3>Enter your <a href="https://www.gigable.net/launch-gig-campaign/">concert details</a> and submit for approval</h3>
 </li>
-	<li>
+ 	<li>
 <h3>Share URL</h3>
 </li>
 </ol>
 [appthemer_crowdfunding_login]
+
+[bws_google_captcha]
