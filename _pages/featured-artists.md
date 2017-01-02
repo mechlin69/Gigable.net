@@ -58,4 +58,6 @@ Love house concerts? <a href="https://www.gigable.net/house-concerts/">Start her
 <h3><strong>New artists, start here:</strong></h3>
 [appthemer_crowdfunding_register]
 
+[bws_google_captcha]
+
 Once we receive your contact info, we will reach out to discuss your goals!
