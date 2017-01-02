@@ -9,7 +9,7 @@ permalink: >
   https://www.gigable.net/2017/01/02/the-50-most-anticipated-albums-of-2017/
 published: true
 ---
-<blockquote><a href="http://consequenceofsound.net/2016/12/the-50-most-anticipated-albums-of-2017/"><img class="alignnone size-full" src="https://gigable.net/wp-content/uploads/2017/01/anticipated-albums-2017-v2.png" alt="" /></a>Here's a stack of reasons to get totally pumped up for the new year.</blockquote>
+<blockquote><a href="http://consequenceofsound.net/2016/12/the-50-most-anticipated-albums-of-2017/"><img class="alignleft" src="https://gigable.net/wp-content/uploads/2017/01/anticipated-albums-2017-v2.png" width="807" height="508" /></a>Here's a stack of reasons to get totally pumped up for the new year.</blockquote>
 We're very excited at the prospect of new music in 2017. Here's a list of the 50 most anticipated albums compiled by Consequence of Sound.
 
 Source: <em><a href="http://consequenceofsound.net/2016/12/the-50-most-anticipated-albums-of-2017/">The 50 Most Anticipated Albums of 2017</a></em>
