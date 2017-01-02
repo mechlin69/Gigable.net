@@ -5,8 +5,7 @@ author: Mike Echlin
 post_date: 2017-01-02 12:07:17
 post_excerpt: ""
 layout: page
-permalink: >
-  https://www.gigable.net/about-us/artist-roster/
+permalink: https://www.gigable.net/artist-roster/
 published: true
 ---
 <h3>Gigable is proud to introduce and promote great artists and original music.  We are adding new artists every day.</h3>
