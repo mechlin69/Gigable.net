@@ -23,6 +23,6 @@ In this episode, John and Mike spin some new tunes from three great artists:
 </ul>
 You can hear these tunes in our New Arrivals playlist on our app.
 
-Download our app on iTunes: <a href="http://apple.co/2gtnpY5">http://apple.co/2gtnpY5</a>
+Download our free streaming app: <a href="http://apple.co/2gtnpY5">http://apple.co/2gtnpY5</a>
 
 &nbsp;
