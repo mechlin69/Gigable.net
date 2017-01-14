@@ -18,3 +18,5 @@ enclosure:
 In this episode, Mike and John discuss the origins of Gigable and how music fans and artists will benefit from our evolved vision.
 
 The Gigable Radio app is a curated-playlist music streaming app.  It's very easy for music fans to listen and find the best new music.
+
+Download our free streaming app here: <a href="http://apple.co/2gtnpY5">http://apple.co/2gtnpY5</a>
