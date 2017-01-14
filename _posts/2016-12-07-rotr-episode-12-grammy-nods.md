@@ -22,3 +22,5 @@ Sturgill's album, "Sailor's Guide To Earth" has been nominated for Album of the 
 Ari Hest and Judy Collins' album, "Silver Skies Blue" for Best Folk Album!
 
 Congrats to both. Have a listen to their tracks and our conversation.
+
+Download our free streaming app: <a href="http://apple.co/2gtnpY5">http://apple.co/2gtnpY5</a>
