@@ -1,6 +1,6 @@
 ---
 ID: 7324
-post_title: 'New Music &#8211; Week of 1/22/17'
+post_title: 'New Music &#8211; Week of 1/15/17'
 author: Mike Echlin
 post_date: 2017-01-18 08:00:05
 post_excerpt: ""
