@@ -6,7 +6,7 @@ post_date: 2017-01-18 08:00:05
 post_excerpt: ""
 layout: post
 permalink: >
-  https://www.gigable.net/2017/01/18/new-music-week-of-12217/
+  https://www.gigable.net/2017/01/18/new-music-week-of-11517/
 published: true
 ---
 <h3>2017 is a rollin'</h3>
