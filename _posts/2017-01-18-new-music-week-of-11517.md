@@ -9,6 +9,7 @@ permalink: >
   https://www.gigable.net/2017/01/18/new-music-week-of-11517/
 published: true
 ---
+&nbsp;
 <h3>2017 is a rollin'</h3>
 We have a fresh batch of tunes to kick off 2017. You can listen to your heart's content on the <a href="http://apple.co/2gtnpY5">"New Arrivals" playlist in our iPhone app</a>. (Android version coming soon!)
 
@@ -22,7 +23,8 @@ Song: "Rolling Pin"</em>
 
 &nbsp;
 
-&nbsp;
+<hr />
+
 <h4><a href="https://gigable.net/wp-content/uploads/2017/01/ActualWolf_HoneyHoney.jpg"><img class="alignleft wp-image-7332 size-medium" src="https://gigable.net/wp-content/uploads/2017/01/ActualWolf_HoneyHoney-300x300.jpg" width="300" height="300" /></a><em><strong>Actual Wolf</strong></em>
 <em>Song: "Honey, Honey"
 </em><em>Album: Itasca</em></h4>
@@ -32,9 +34,8 @@ Song: "Rolling Pin"</em>
 
 &nbsp;
 
-&nbsp;
+<hr />
 
-&nbsp;
 <h4><a href="https://gigable.net/wp-content/uploads/2017/01/MP-HoldOnCover.jpg"><img class="alignleft wp-image-7333 size-medium" src="https://gigable.net/wp-content/uploads/2017/01/MP-HoldOnCover-300x300.jpg" width="300" height="300" /></a><em><strong>Midnight Pilot</strong></em>
 <em>Song: "Dangerous Game"</em>
 <em>Album: Hold On</em></h4>
