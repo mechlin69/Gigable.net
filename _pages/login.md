@@ -23,5 +23,3 @@ force_ssl_children:
 </li>
 </ol>
 [appthemer_crowdfunding_login]
-
-[bws_google_captcha]
