@@ -18,5 +18,3 @@ dsq_thread_id:
  	<li>We will review your show and be in touch right away!</li>
 </ol>
 [appthemer_crowdfunding_register]
-
-[bws_google_captcha]
