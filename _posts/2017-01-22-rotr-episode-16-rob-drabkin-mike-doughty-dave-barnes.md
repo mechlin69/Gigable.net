@@ -17,8 +17,8 @@ enclosure:
 ---
 In this episode, we feature a #feelgood selection of songs from these three amazing artists:
 <ul>
- 	<li>Rob Drabkin</li>
- 	<li>Mike Doughty</li>
- 	<li>Dave Barnes</li>
+ 	<li>Rob Drabkin - "Someday"</li>
+ 	<li>Mike Doughty - "I Can't Believe I Found You In That Town"</li>
+ 	<li>Dave Barnes - "Wildfire Heart"</li>
 </ul>
 These songs can be found on our "New Arrivals" playlist in our mobile app. Download the app for free here: <a href="http://apple.co/2gtnpY5">http://apple.co/2gtnpY5</a>
