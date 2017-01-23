@@ -13,7 +13,7 @@ published: true
 This week, we're chillin' a bit and featuring some #feelgood tunes. You can listen to your heart's content on the <a href="http://apple.co/2gtnpY5">"New Arrivals" playlist in our iPhone app</a>. (Android version coming soon!)
 
 &nbsp;
-<h4><em><a href="https://gigable.net/wp-content/uploads/2017/01/robdrabkin.jpeg"><img class="alignleft wp-image-7363 size-full" src="https://gigable.net/wp-content/uploads/2017/01/robdrabkin.jpeg" width="284" height="178" /></a><strong>Rob Drabkin</strong>
+<h4><em><a href="https://gigable.net/wp-content/uploads/2017/01/Drabkin064.jpg"><img class="alignleft wp-image-7370 size-medium" src="https://gigable.net/wp-content/uploads/2017/01/Drabkin064-200x300.jpg" width="200" height="300" /></a><strong>Rob Drabkin</strong>
 Song: "Someday"</em>
 <em>
 </em></h4>
