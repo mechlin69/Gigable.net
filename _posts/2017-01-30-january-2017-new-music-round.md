@@ -32,4 +32,4 @@ By order of appearance throughout the month:
 
 <hr />
 
-<strong>Download Our Free Streaming App: http://apple.co/2gtnpY5 (Android version coming soon!)</strong>
+<strong>Download Our Free Streaming App: <a href="http://apple.co/2gtnpY5">http://apple.co/2gtnpY5</a> (Android version coming soon!)</strong>
