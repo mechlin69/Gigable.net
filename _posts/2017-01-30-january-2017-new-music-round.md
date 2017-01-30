@@ -29,3 +29,7 @@ By order of appearance throughout the month:
  	<li>Mike Doughty - "I Can't Believe I Found You In That Town"</li>
  	<li>Rob Drabkin - "Someday"</li>
 </ol>
+
+<hr />
+
+<strong>Download Our Free Streaming App: http://apple.co/2gtnpY5 (Android version coming soon!)</strong>
