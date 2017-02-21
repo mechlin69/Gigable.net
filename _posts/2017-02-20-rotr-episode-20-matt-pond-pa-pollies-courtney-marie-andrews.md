@@ -17,7 +17,7 @@ enclosure:
 ---
 In this episode, John and Mike feature a couple of amazing veteran singer/songwriters.
 
-In honor of Black History Month, we chose the song "Jackson" from The Pollies. This song is a tribute to ... Jackson who was shot and led to the march on...
+In honor of Black History Month, we chose the song "Jackson" from The Pollies. This song is a tribute to Jimmy Lee Jackson who was shot and led to the march on Selma.
 
 Featured songs:
 
