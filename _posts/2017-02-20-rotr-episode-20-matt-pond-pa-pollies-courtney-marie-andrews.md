@@ -8,6 +8,12 @@ layout: post
 permalink: >
   https://www.gigable.net/2017/02/20/rotr-episode-20-matt-pond-pa-pollies-courtney-marie-andrews/
 published: true
+enclosure:
+  - |
+    https://gigable.net/wp-content/uploads/2017/02/rotr-ep20-master.mp3
+    29117776
+    audio/mpeg
+    a:1:{s:8:"duration";s:8:"00:20:13";}
 ---
 In this episode, John and Mike feature a couple of amazing veteran singer/songwriters.
 
