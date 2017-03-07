@@ -19,11 +19,35 @@ March comes in like a lion singing the blues.
 
 Check out these featured artists in our blues-themed episode:
 
-<strong>Jake Mack - "Loser Town"</strong>
+<strong><a href="https://gigable.net/wp-content/uploads/2017/03/12657903_919979541455683_4176986219162770530_o-2.jpg"><img class="alignleft size-thumbnail wp-image-7514" src="https://gigable.net/wp-content/uploads/2017/03/12657903_919979541455683_4176986219162770530_o-2-150x150.jpg" alt="" width="150" height="150" /></a>Jake Mack - "Loser Town"</strong>
 
-<strong>Matt Phillips - "Mother"</strong>
+&nbsp;
 
-<strong>Troy Ramey - "Daisy"</strong>
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<strong><a href="https://gigable.net/wp-content/uploads/2017/03/Promo-Pic.jpg"><img class="alignleft size-thumbnail wp-image-7515" src="https://gigable.net/wp-content/uploads/2017/03/Promo-Pic-150x150.jpg" alt="" width="150" height="150" /></a>Matt Phillips - "Mother"</strong>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+<strong><a href="https://gigable.net/wp-content/uploads/2017/03/IMG_0058.jpg"><img class="alignleft size-thumbnail wp-image-7516" src="https://gigable.net/wp-content/uploads/2017/03/IMG_0058-150x150.jpg" alt="" width="150" height="150" /></a>Troy Ramey - "Daisy"</strong>
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 <hr />
 
