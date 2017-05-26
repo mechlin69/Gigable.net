@@ -8,3 +8,8 @@ layout: page
 permalink: https://www.gigable.net/streamsong/
 published: true
 ---
+<audio controls width="100" height="100">
+    <source src="streamsong" type="audio/mp3">
+    <!-- Fallback for older browsers -->
+    Your browser doesn't support html5 audio
+</audio>
