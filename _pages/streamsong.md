@@ -14,10 +14,10 @@ queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
 var song = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3";
 document.write(song);
+song.play();
 </script>
 
 <audio id="song" controls="controls">
-   
     <source id="mp3Source" src="song" type="audio/mp3"></source>
     Your browser does not support the audio format.
 </audio>
