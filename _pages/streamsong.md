@@ -8,8 +8,10 @@ layout: page
 permalink: https://www.gigable.net/streamsong/
 published: true
 ---
+<script var queryString = url.substring( url.indexOf('?') + 1 );>
+</script>
 <audio controls width="100" height="100">
-    <source src="streamsong" type="audio/mp3">
+    <source src="queryString" type="audio/mp3">
     <!-- Fallback for older browsers -->
     Your browser doesn't support html5 audio
 </audio>
