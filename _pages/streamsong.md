@@ -14,5 +14,5 @@ queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
 var song = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3";
 document.write(song);
+song.play();
 </script>
-[audio src="song"]
