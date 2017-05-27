@@ -8,7 +8,7 @@ layout: page
 permalink: https://www.gigable.net/streamsong/
 published: true
 ---
-<script>
+<script type="text/javascript">
 var queryString= window.location.search;
 queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
@@ -17,4 +17,22 @@ document.write(song);
 $("a").click(function() {
   $("song").play();
 });
+
+$(document).ready(function(){
+$("#jquery_jplayer_1").jPlayer({
+ready: function () {
+$(this).jPlayer("setMedia", {
+mp3: "song",
+oga: "/media/mysound.ogg"
+});
+},
+swfPath: "/js",
+supplied: "mp3, oga"
+});
+});
 </script>
+<div id="jquery_jplayer_1"></div>
+<div id="jp_container_1">
+<a href="#" class="jp-play">Play</a>
+<a href="#" class="jp-pause">Pause</a>
+</div>
