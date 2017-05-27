@@ -11,7 +11,8 @@ published: true
 <script>
 var queryString= window.location.search;
 queryString = queryString.substring(51);
-var song = "https://s3-us-west-2_amazonaws_com/gigable_tracks/" + queryString;
+var tune = queryString.slice (0, -4);
+var song = "https://s3-us-west-2_amazonaws_com/gigable_tracks/" + queryString + tune;
 document.write(song);
 </script>
 
