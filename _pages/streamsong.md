@@ -12,7 +12,7 @@ published: true
 var queryString= window.location.search;
 queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
-var song = "https://s3-us-west-2_amazonaws_com/gigable_tracks/" + queryString + tune;
+var song = "https://s3-us-west-2_amazonaws_com/gigable_tracks/" + tune + ".mp3";
 document.write(song);
 </script>
 
