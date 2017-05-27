@@ -8,8 +8,9 @@ layout: page
 permalink: https://www.gigable.net/streamsong/
 published: true
 ---
-<script var queryString = url.substring( url.indexOf('?') + 1 );
-document.write(queryString);>
+<script>
+var queryString = url.substring( url.indexOf('?') + 1 );
+document.write(queryString);
 </script>
 
 <audio controls width="100" height="100">
