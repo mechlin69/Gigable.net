@@ -10,7 +10,7 @@ published: true
 ---
 <script>
 var queryString= window.location.search;
-queryString = queryString.substring(1);
+queryString = queryString.substring(2);
 </script>
 
 <audio controls="controls">
