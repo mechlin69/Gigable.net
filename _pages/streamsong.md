@@ -10,7 +10,8 @@ published: true
 ---
 <script>
 var queryString= window.location.search;
-queryString = queryString.substring(2);
+queryString = queryString.substring(53);
+song = https://s3-us-west-2_amazonaws_com/gigable_tracks/ + queryString
 </script>
 
 <audio controls="controls">
