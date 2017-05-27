@@ -17,7 +17,7 @@ document.write(song);
 </script>
 
 <audio controls="controls">
-<source src="song" type="audio/mp3" />
+<source src= song type="audio/mp3" />
 <!-- Fallback for older browsers -->
 Your browser doesn't support html5 audio
 </audio>
