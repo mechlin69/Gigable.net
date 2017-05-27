@@ -18,4 +18,5 @@ document.write(song);
 var playme = document.getElementById('playme'); 
 playme.src='song'; 
 playme.load();
+playme.play();
 </script>
