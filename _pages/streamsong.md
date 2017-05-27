@@ -11,11 +11,11 @@ published: true
 <script>
 var queryString= window.location.search;
 queryString = queryString.substring(53);
-song = https://s3-us-west-2_amazonaws_com/gigable_tracks/ + queryString
+song = "https://s3-us-west-2_amazonaws_com/gigable_tracks/" + queryString
 </script>
 
 <audio controls="controls">
-<source src="queryString" type="audio/mp3" />
+<source src="song" type="audio/mp3" />
 <!-- Fallback for older browsers -->
 Your browser doesn't support html5 audio
 </audio>
