@@ -17,7 +17,7 @@ document.write(song);
 </script>
 
 <audio id="song" controls="controls">
-    <source id="oggSource" src="" type="audio/ogg"></source>
-    <source id="mp3Source" type="audio/mp3"></source>
+   
+    <source id="mp3Source" src="song" type="audio/mp3"></source>
     Your browser does not support the audio format.
 </audio>
