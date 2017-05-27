@@ -14,7 +14,10 @@ queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
 var song = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3";
 document.write(song);
-
- audio.load(); //call this to just preload the audio without playing
- audio.play(); //call this to play the song right away
 </script>
+
+<audio id="song" controls="controls">
+    <source id="oggSource" src="" type="audio/ogg"></source>
+    <source id="mp3Source" type="audio/mp3"></source>
+    Your browser does not support the audio format.
+</audio>
