@@ -19,8 +19,8 @@ song.src=songUrl;
 song.play();
 </script>
 
-<!-- <input type="button" style="font-size: 10px;"
-        OnClick="document.getElementById('playme').src='song';"
-        value="Listen">
-
--->
+<audio controls>
+  <source src="song" type="audio/ogg">
+  <source src="song" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
