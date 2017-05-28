@@ -16,11 +16,10 @@ var songUrl = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp
 document.write(song);
 
 song.src=songUrl;
-song.play();
 </script>
 
 <audio controls>
   <source src="song" type="audio/ogg">
-  <source src="song" type="audio/mpeg">
+  <source src="https://s3-us-west-2.amazonaws.com/gigable.tracks/20161130045808.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
