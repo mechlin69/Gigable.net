@@ -12,14 +12,12 @@ published: true
 var queryString= window.location.search;
 queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
-var songUrl = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3";
-document.write(song);
-
-song.src=songUrl;
+var songUrl = audio("https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3");
+return songUrl;
 </script>
 
 <audio controls>
   <source src="song" type="audio/ogg">
-  <source src="https://s3-us-west-2.amazonaws.com/gigable.tracks/20161130045808.mp3" type="audio/mpeg">
+  <source src="songUrl">
 Your browser does not support the audio element.
 </audio>
