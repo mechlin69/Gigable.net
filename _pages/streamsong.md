@@ -17,7 +17,6 @@ return songUrl;
 </script>
 
 <audio controls>
-  <source src="song" type="audio/ogg">
   <source src="songUrl">
 Your browser does not support the audio element.
 </audio>
