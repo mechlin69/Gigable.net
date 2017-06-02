@@ -8,15 +8,15 @@ layout: page
 permalink: https://www.gigable.net/streamsong/
 published: true
 ---
+<audio controls>
+  <source src="song">
+Your browser does not support the audio element.
+</audio>
+
 <script type="text/javascript">
 var queryString= window.location.search;
 queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
 var songUrl = audio("https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3");
-return songUrl;
+document.getElementById("song").innerHTML = "songUrl";
 </script>
-
-<audio controls>
-  <source src="songUrl">
-Your browser does not support the audio element.
-</audio>
