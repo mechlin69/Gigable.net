@@ -16,6 +16,4 @@ var songUrl = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp
 document.getElementById('song').innerHTML = songUrl.toString();
 
 </script>
-
-
 <p id="song"></p>
