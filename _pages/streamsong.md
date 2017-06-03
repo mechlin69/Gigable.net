@@ -13,5 +13,9 @@ var queryString= window.location.search;
 queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
 var songUrl = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3";
-document.getElementById("song") = "songUrl";
+document.getElementById('song').innerHTML = songUrl;
+
 </script>
+
+
+<p id="song"></p>
