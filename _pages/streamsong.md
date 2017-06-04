@@ -8,7 +8,11 @@ layout: page
 permalink: http://www.gigable.net/streamsong/
 published: true
 ---
-<audio id='song'></audio>
+<audio controls>
+  <id="song" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
 
 <script type="text/javascript">
 var queryString= window.location.search;
