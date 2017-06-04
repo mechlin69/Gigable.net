@@ -8,12 +8,11 @@ layout: page
 permalink: http://www.gigable.net/streamsong/
 published: true
 ---
-<code>The following song has been shared with you!</code>
-
+The following song has been shared with you!
 <code>
 <audio id="song" controls="controls">
 Your browser does not support the audio element.
-</audio></code>
+</audio>
 
 <script type="text/javascript">
 var queryString= window.location.search;
@@ -22,6 +21,7 @@ var tune = queryString.slice (0, -4);
 var songUrl = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3";
 document.getElementById('song').src = songUrl;
 </script>
+</code>
 
 Download the GIGABLE app for more amazing discoveries:
 
