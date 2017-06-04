@@ -5,15 +5,16 @@ author: Mike Echlin
 post_date: 2017-05-26 18:46:57
 post_excerpt: ""
 layout: page
-permalink: https://www.gigable.net/streamsong/
+permalink: http://www.gigable.net/streamsong/
 published: true
 ---
+<audio id='song'>
+
 <script type="text/javascript">
 var queryString= window.location.search;
 queryString = queryString.substring(51);
 var tune = queryString.slice (0, -4);
 var songUrl = "https://s3-us-west-2.amazonaws.com/gigable.tracks/" + tune + ".mp3";
-document.getElementById('song').innerHTML = songUrl.toString();
+document.getElementById('song').src = songUrl
 
 </script>
-<p id="song"></p>
