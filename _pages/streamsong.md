@@ -1,6 +1,6 @@
 ---
 ID: 7666
-post_title: Streamsong
+post_title: Music Discovery
 author: Mike Echlin
 post_date: 2017-05-26 18:46:57
 post_excerpt: ""
