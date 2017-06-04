@@ -8,7 +8,7 @@ layout: page
 permalink: http://www.gigable.net/streamsong/
 published: true
 ---
-<audio id='song'>
+<audio id='song'></audio>
 
 <script type="text/javascript">
 var queryString= window.location.search;
