@@ -17,4 +17,4 @@ Here are the artists in our latest playlist called <a href="http://apple.co/2gtn
 
 Listen on our free app!
 
-<a href="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" target="_blank" rel="http://apple.co/2gtnpY5 noopener"><img class="alignleft wp-image-5286" src="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" alt="" width="150" height="44" /></a>
+<a href="http://apple.co/2gtnpY5" target="_blank" rel="http://apple.co/2gtnpY5 noopener"><img class="alignleft wp-image-5286" src="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" alt="" width="250" height="74" /></a>
