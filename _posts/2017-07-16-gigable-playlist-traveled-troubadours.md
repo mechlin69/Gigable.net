@@ -13,7 +13,7 @@ These are the pied pipers who work extra hard to win new fans on every continent
 
 Here are the artists in our latest playlist called <a href="http://apple.co/2gtnpY5">Traveled Troubadours</a>:
 
-[gallery columns="2" ids="7766,7767,7770,7773,7774,7775,7776,7777" orderby="rand"]
+[gallery columns="4" link="none" ids="7766,7767,7770,7773,7774,7775,7776,7777" orderby="rand"]
 
 Listen on our free app!
 
