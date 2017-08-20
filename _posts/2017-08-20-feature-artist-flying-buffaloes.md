@@ -13,4 +13,4 @@ post_date: 2017-08-20 11:54:41
 
 Check out our <strong>"On-Tour" playlist</strong> to hear their song, <em>"Learning The Hard Way" </em>and find their next gig!
 
-<a href="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" target="_blank" rel="https://itunes.apple.com/us/app/gigable-music-discovery/id1118761510?mt=8 noopener"><img class="alignleft wp-image-5286" src="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" alt="" width="200" height="59" /></a>
+<a href="https://itunes.apple.com/us/app/gigable-music-discovery/id1118761510?mt=8" target="_blank" rel="https://itunes.apple.com/us/app/gigable-music-discovery/id1118761510?mt=8 noopener"><img class="alignleft wp-image-5286" src="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" alt="" width="200" height="59" /></a>
