@@ -23,4 +23,4 @@ Flying Buffaloes represents the essence and energy of the current musical climat
 
 This menagerie of influencers is evident in the group’s debut release, Taking Off, which features songs written by co-frontmen Barry Stone, Johan Stone, and Jordan Harazin. You can hear Taking Off and find Flying Buffaloes on tour, Summer 2017.
 
-Band Website: http://www.flyingbuffaloes.com
+Band Website: <a href="http://www.flyingbuffaloes.com">http://www.flyingbuffaloes.com</a>
