@@ -22,3 +22,5 @@ Check out our <strong>"On-Tour" playlist</strong> to hear their song, <em>"Learn
 Flying Buffaloes represents the essence and energy of the current musical climate in Nashville; the converging of the traditional country honky-tonk mentality with the new wave of gritty East Nashville rock &amp; roll. Their sound is reminiscent of The Eagles, vocally, with Beatles-esque harmony and a swampy, Rolling Stones-meets-CCR rhythm section. Country influences like Waylon Jennings. Willie Nelson, and Chris Stapleton really shine through in Flying Buffaloes songwriting, instrumentation, and lyrics.
 
 This menagerie of influencers is evident in the group’s debut release, Taking Off, which features songs written by co-frontmen Barry Stone, Johan Stone, and Jordan Harazin. You can hear Taking Off and find Flying Buffaloes on tour, Summer 2017.
+
+Band Website: http://www.flyingbuffaloes.com
