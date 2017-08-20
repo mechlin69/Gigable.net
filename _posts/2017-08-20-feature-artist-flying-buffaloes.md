@@ -1,6 +1,6 @@
 ---
 ID: 7789
-post_title: 'Feature Artist: Flying Buffaloes'
+post_title: 'Featured Artist: Flying Buffaloes'
 author: Mike Echlin
 post_excerpt: ""
 layout: post
