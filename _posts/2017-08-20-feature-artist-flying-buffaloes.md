@@ -17,6 +17,7 @@ Check out our <strong>"On-Tour" playlist</strong> to hear their song, <em>"Learn
 <img class="alignleft wp-image-5286" src="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" alt="" width="200" height="59" /></a>
 <h4></h4>
 <h4></h4>
+<h4></h4>
 <h4>About the band:</h4>
 Flying Buffaloes represents the essence and energy of the current musical climate in Nashville; the converging of the traditional country honky-tonk mentality with the new wave of gritty East Nashville rock &amp; roll. Their sound is reminiscent of The Eagles, vocally, with Beatles-esque harmony and a swampy, Rolling Stones-meets-CCR rhythm section. Country influences like Waylon Jennings. Willie Nelson, and Chris Stapleton really shine through in Flying Buffaloes songwriting, instrumentation, and lyrics.
 
