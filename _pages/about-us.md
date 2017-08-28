@@ -17,6 +17,10 @@ post_date: 2013-12-26 17:19:08
 
 <a href="http://www.nwherald.com/2016/03/10/woodstock-opera-house-concert-to-showcase-emerging-americana-artists-gigable-app/ai1a619/">NW Herald - 3/30/16</a>
 
+<a href="https://itunes.apple.com/us/app/gigable-music-discovery/id1118761510?mt=8"><img class="alignleft wp-image-5286" src="http://www.gigable.net/wp-content/uploads/2015/05/Download_on_the_App_Store_Badge.svg_-e1468263271649.png" alt="" width="200" height="59" /></a>
+
+&nbsp;
+
 <hr />
 
 <h3>Drop us a line - we'd love to hear from you!</h3>
