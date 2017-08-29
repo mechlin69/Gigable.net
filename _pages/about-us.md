@@ -21,7 +21,7 @@ post_date: 2013-12-26 17:19:08
 
 &nbsp;
 
-&nbsp;
+(Android version coming soon!)
 
 <hr />
 
